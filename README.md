@@ -8,6 +8,7 @@ A repo of all the websites I found (and still find) super helpful when learning 
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - Visualise and generate CSS grids
 - [FreeFontend](https://freefrontend.com/) - Huge amount of HTML and CSS examples
 - [FontAwesome](https://fontawesome.com/) - Free to use icons for building a website
+- [CSS Diner](https://flukeout.github.io/) - A game that shows you how to select elements with CSS
 
 ## Git & GitHub
 - [Learn Git Branching](https://learngitbranching.js.org/) - Super helpful tutorial on learning git branching with visuals
